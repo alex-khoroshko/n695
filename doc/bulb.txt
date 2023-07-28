@@ -1,0 +1,9 @@
+steel - 7g/сm2
+weight = 200kg
+fill ratio = 0.5
+200000/(0.5*7)=57000cm3=57liters
+full volume = 60l
+12l per 10cm of length needed to fit into 0.5m
+diameter is 40cm
+chord = 1m, diameter 40
+
